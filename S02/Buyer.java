@@ -1,4 +1,4 @@
-package S02.Task01;
+package S02;
 
 public abstract class Buyer implements BuyerBehavior {
   protected String name;
